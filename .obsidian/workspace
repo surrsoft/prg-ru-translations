@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "c823413b7febc9c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d0bd928db75d8c",
+        "type": "leaf",
+        "dimension": 50.128205128205124,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": ".gitignore.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d2f7a419169ab05a",
+        "type": "leaf",
+        "dimension": 49.871794871794876,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Drupal/'Drupal Guide'/'Drupal APIs'/'Database API'/'Database Configuration' {drupal}.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcb9443c50ca2803",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b683f916fa95985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7462f47ce5e6dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4484b89ce02526c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5995631f849f2941",
+    "type": "split",
+    "children": [
+      {
+        "id": "dba5e3f2ca2ec79a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126ddca43ec92275",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": ".gitignore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Drupal/'Drupal Guide'/'Drupal APIs'/'Database API'/'Database Configuration' {drupal}.md",
+    "Drupal/'Drupal Guide'/'Drupal APIs'/'Database API'/Untitled.md"
+  ]
+}
