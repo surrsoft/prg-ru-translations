@@ -4,27 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "85d0bd928db75d8c",
+        "id": "d2f7a419169ab05a",
         "type": "leaf",
-        "dimension": 50.128205128205124,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": ".gitignore.md",
+            "file": "MDN web docs/'Web technoloby for developers' {mdn}/'CSS - Cascading Styel Sheets' {mdn}/'CSS Reference' {mdn}/'align-items' {css}.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d2f7a419169ab05a",
-        "type": "leaf",
-        "dimension": 49.871794871794876,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Drupal/'Drupal Guide'/'Drupal APIs'/'Database API'/'Database Configuration' {drupal}.md",
-            "mode": "preview"
           }
         }
       }
@@ -66,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354
   },
   "right": {
     "id": "5995631f849f2941",
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": ".gitignore.md",
+                "file": "MDN web docs/'Web technoloby for developers' {mdn}/'CSS - Cascading Styel Sheets' {mdn}/'CSS Reference' {mdn}/'align-items' {css}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +86,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "MDN web docs/'Web technoloby for developers' {mdn}/'CSS - Cascading Styel Sheets' {mdn}/'CSS Reference' {mdn}/'align-items' {css}.md",
+    "temp.md",
+    "001.png",
+    "MDN web docs/'Web technoloby for developers' {mdn}/'CSS - Cascading Styel Sheets' {mdn}/'CSS Reference' {mdn}/Untitled.md",
+    "Drupal/'Drupal Guide'/'Drupal APIs'/'Database API'/'Database Configuration' {drupal}.md",
     "Untitled.md",
     "README.md",
-    "Drupal/'Drupal Guide'/'Drupal APIs'/'Database API'/'Database Configuration' {drupal}.md",
     "Drupal/'Drupal Guide'/'Drupal APIs'/'Database API'/Untitled.md"
   ]
 }
