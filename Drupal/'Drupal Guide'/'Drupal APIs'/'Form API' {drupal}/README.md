@@ -1,4 +1,4 @@
-[[10 'Introduction to Form API' {drupal}|10 'Introduction to Form API' {drupal}]]
+[10](10 'Introduction to Form API' {drupal})
 
 [[20 'ConfigFormBase with Simple Configuration API' {drupal}]]
 
