@@ -1,4 +1,4 @@
-[](https://www.drupal.org/docs/drupal-apis/form-api/introduction-to-form-api)[https://www.drupal.org/docs/drupal-apis/form-api/introduction-to-form-api](https://www.drupal.org/docs/drupal-apis/form-api/introduction-to-form-api)
+♐ [](https://www.drupal.org/docs/drupal-apis/form-api/introduction-to-form-api)[https://www.drupal.org/docs/drupal-apis/form-api/introduction-to-form-api](https://www.drupal.org/docs/drupal-apis/form-api/introduction-to-form-api)
 
 # Обзор
 
@@ -19,8 +19,6 @@
 3.  Форма для удаления содержимого или конфигурации, которая обеспечивает шаг подтверждения. Расширьте [ConfirmFormBase](https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Form%21ConfirmFormBase.php/class/ConfirmFormBase/8).
 
 FormBase реализует `[FormInterface](<https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Form%21FormInterface.php/interface/FormInterface/8.3.x>)`, и как ConfigFormBase, так и ConfirmFormBase расширяют FormBase, поэтому любые формы, расширяющие эти классы, должны реализовывать несколько обязательных методов.
-
-Переведено с помощью [www.DeepL.com/Translator](http://www.deepl.com/Translator) (бесплатная версия)
 
 # Обязательные методы
 
