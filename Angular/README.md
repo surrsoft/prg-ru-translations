@@ -1,1 +1,1 @@
-* [Understanding Angular](./understanding_angular/README.md)
+* [Understanding Angular {angular}](./understanding_angular/README.md)
