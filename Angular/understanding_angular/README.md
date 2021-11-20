@@ -1,1 +1,1 @@
-* 
+* [Template {angular}](./templates)
